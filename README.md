@@ -2,8 +2,6 @@
 
 I am a data scientist with a foundation in applied math, ecology, and population modeling. I have experience in a wide range of disciplines including high dimensional data. I work mostly with R and python, but I am also familier with SQL and have been known to ocasionally write bits of code in C++. I specialize in spatial data analysis and visualization, statistical analysis design and implementation. I have mentorship and communication training as well as extensive experience working and communicating with people of diverse backgrounds.  
 
-I currently work at in affordable housing at the California Housing Finance Agency. I run CalHFA's [Bond Recycling Program](https://www.calhfa.ca.gov/multifamily/programs/index.htm#bond) and manage the Agency's spatial data and data analysis needs. 
-
 ### Project Groupings
 
   * Statistical Consulting
